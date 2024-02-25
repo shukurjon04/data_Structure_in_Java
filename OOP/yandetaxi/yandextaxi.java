@@ -1,4 +1,6 @@
-package OOP.yandexraxi;
+package OOP.yandetaxi;
+
+import OOP.yandetaxi.trafictype;
 
 import java.util.Scanner;
 
@@ -209,7 +211,7 @@ public class yandextaxi {
                     " } ";
         }
 
-        public Driver(String number, String model, OOP.yandexraxi.trafictype trafictype, String password, String phonenumber) {
+        public Driver(String number, String model, OOP.yandetaxi.trafictype trafictype, String password, String phonenumber) {
             this.number = number;
             this.model = model;
             this.trafictype = trafictype;

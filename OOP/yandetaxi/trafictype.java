@@ -1,4 +1,4 @@
-package OOP.yandexraxi;
+package OOP.yandetaxi;
 
 public enum trafictype {
     simple,

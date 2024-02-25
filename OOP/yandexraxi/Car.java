@@ -1,4 +1,4 @@
-package OOP;
+package OOP.yandexraxi;
 
 public class Car {
     String modeli;
