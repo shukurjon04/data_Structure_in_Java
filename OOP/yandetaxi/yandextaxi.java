@@ -241,6 +241,7 @@ public class yandextaxi {
         }
     }
 
+    //chiqaruvchi
     private class Monitor {
         private Passenger passenger;
         private Driver driver;
